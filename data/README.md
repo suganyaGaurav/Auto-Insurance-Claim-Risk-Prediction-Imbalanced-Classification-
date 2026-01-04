@@ -1,9 +1,13 @@
-The dataset used in this project contains anonymized insurance policy features
-related to customer demographics, vehicle characteristics, and regional data.
+## Dataset Information
 
-Due to confidentiality and licensing constraints, the original dataset is not
-included in this repository.
+The original dataset used in this project contains anonymized auto insurance
+policyholder information and is not publicly shareable due to confidentiality
+and licensing constraints.
 
-A small dummy dataset is provided solely for understanding feature structure.
-The target variable indicates whether a customer initiated an insurance claim
-in the following year.
+This repository includes a small `sample_dummy.csv` file created from the
+original dataset to demonstrate:
+- Feature names
+- Data structure
+- Target variable format
+
+The dummy sample should NOT be used for training or evaluation.
