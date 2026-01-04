@@ -1,0 +1,5 @@
+# Create a small dummy sample for GitHub reference
+dummy_sample = data.head(1000)
+
+# Save it as CSV
+dummy_sample.to_csv("data/sample_dummy.csv", index=False)
