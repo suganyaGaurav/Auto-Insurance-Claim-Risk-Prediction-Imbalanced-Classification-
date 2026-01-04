@@ -1,5 +1,9 @@
 # Auto Insurance Claim Risk Prediction (Imbalanced Classification)
 
+> Note: This project intentionally avoids deployment to focus on modeling rigor. 
+> Production deployment examples are demonstrated in other repositories.
+
+
 ## Overview
 
 This project focuses on building a classical machine learning model to predict whether an auto insurance policyholder is likely to initiate an insurance claim in the next year.  
